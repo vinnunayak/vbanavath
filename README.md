@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vbanavath
+- 👋 Hi, I’m @Vinod Nayak/vbanavath
 - 👀 I’m interested in iOS Applications
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on iOS
